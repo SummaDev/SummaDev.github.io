@@ -10,10 +10,11 @@ Dentro de los marcos de trabajo ágil existen distintos conceptos y definiciones
 
 ### Story Points
 
+Se trata de unidades de medida que permiten expresar una estimación del esfuerzo total que deberá hacer el equipo para implementar íntegramente un elemento del backlog del producto o cualquier otro trabajo. En el enfoque ágil, en lugar de tratarse de períodos fijos de tiempo (horas, días, semanas), se trata como una unidad relativa.
 
 ### Agile Portfolio Management
 
-
+La gestión del portafolio ágil, es el concepto que conlleva priorizar y ordenar los proyectos de un portafolio en un entorno colaborativo, flexible, adaptable y visible a todos los miembros de la institución.
 
 ### Serie Fibonacci
 
