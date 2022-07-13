@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Introducción
 nav_order: 1
 description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
 permalink: /
@@ -9,92 +9,23 @@ permalink: /
 # Gestión Ágil de Portafolio de Proyectos
 {: .fs-9 }
 
-La gestión ágil de portafolio de proyectos permite responder más rápidamente a las condiciones del mercado que cambian rápidamente. Ser ágil esencialmente significa que está entregando valor continuamente, ya sea para un producto, proyecto o programa permitiendo a la empresa anticipar y adaptarse a los cambios en tiempo real.
+La gestión ágil de portafolio de proyectos permite obtener  información sobre todos sus proyectos, ordenar y priorizar cada proyecto en función de determinados criterios, como valor estratégico, el impacto sobre los recursos, el costo, entre otros.
 {: .fs-6 .fw-300 }
 
 [Comenzar](#comenzar){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Visitar Summa](https://www.summa.com.gt/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
-## Comenzar
+## Acerca de APM
 
-### Dependencies
+La Gestión Ágil de Portafolio de Proyectos (Agile Portfolio Management - APM) es un concepto que busca llevar a cabo la gestión de un conjunto de proyectos que forman parte del portafolio de una iniciativa, en un equipo de trabajo, donde la metodología de trabajo permite de forma rápida y ágil a las condiciones cambiantes que se puedan presentar a lo largo del desarrollo de la iniciativa.
 
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
+## Objetivos
 
-### Quick start: Use as a GitHub Pages remote theme
+La gestión ágil de portafolio logra varios objetivos, entre ellos:
 
-1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
-
-```yaml
-remote_theme: just-the-docs/just-the-docs
-```
-
-<small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
-
-### Local installation: Use the gem-based theme
-
-1. Install the Ruby Gem
-  ```bash
-  $ gem install just-the-docs
-  ```
-  ```yaml
-  # .. or add it to your your Jekyll site’s Gemfile
-  gem "just-the-docs"
-  ```
-
-2. Add Just the Docs to your Jekyll site’s `_config.yml`
-  ```yaml
-  theme: "just-the-docs"
-  ```
-
-3. _Optional:_ Initialize search data (creates `search-data.json`)
-  ```bash
-  $ bundle exec just-the-docs rake search:init
-  ```
-
-3. Run you local Jekyll server
-  ```bash
-  $ jekyll serve
-  ```
-  ```bash
-  # .. or if you're using a Gemfile (bundler)
-  $ bundle exec jekyll serve
-  ```
-
-4. Point your web browser to [http://localhost:4000](http://localhost:4000)
-
-If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll locally](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll) so that you can more easily work in your development environment.
-
-### Configure Just the Docs
-
-
-
-## About the project
-
-Just the Docs is &copy; 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](http://patrickmarsceill.com).
-
-### License
-
-Just the Docs is distributed by an [MIT license](https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt).
-
-### Contributing
-
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/just-the-docs/just-the-docs#contributing).
-
-#### Thank you to the contributors of Just the Docs!
-
-<ul class="list-style-none">
-{% for contributor in site.github.contributors %}
-  <li class="d-inline-block mr-1">
-     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
-  </li>
-{% endfor %}
-</ul>
-
-### Code of Conduct
-
-Just the Docs is committed to fostering a welcoming community.
-
-[View our Code of Conduct](https://github.com/just-the-docs/just-the-docs/tree/main/CODE_OF_CONDUCT.md) on our GitHub repository.
+- **Capacidad de entrega predecible:** Debido a que los métodos ágiles piden a la organización que acepte una cierta cantidad de cambios en el proceso de entrega, cada equipo en una organización ágil debe ser predecible. Esto significa que cada equipo debe esforzarse por establecer y mantener una velocidad estable a lo largo del tiempo, de modo que la organización pueda predecir de manera confiable el impacto de los cambios de alcance en el programa general y el ecosistema del portafolio de proyectos.
+- **Reducción rápida del riesgo:** Por ejemplo, al tomar una iniciativa de alto riesgo, todos los niveles de la organización deben centrarse en reducir el riesgo y reducir el embudo de incertidumbre lo más rápido posible. No realizar una gestión de riesgos temprana es un modo de falla clave para los proyectos y programas tanto tradicionales como ágiles. Trabajar estos escenarios de alto riesgo temprano es un factor de éxito crítico para el éxito organizacional.
+- **Retroalimentación rápida:** Obtener comentarios de los clientes del producto es un factor crítico de éxito. En la gestión de portafolio, el objetivo es minimizar la cantidad de tiempo que se invierte dinero en un proyecto sin validar la dirección con un cliente real. Los equipos que entregan de forma incremental, pero que no muestran sus productos a los clientes mientras están en desarrollo, corren el riesgo de crear productos que pueden no satisfacer las necesidades de los clientes.
+- **Facilidad en el cambio de dirección:** Debido a que el mercado es cambiante y las necesidades de los clientes sube y baja la organización debe poder cambiar fácilmente de prioridad sobre lo que es más importante. Cuando el cambio es una parte normal del agilísimo y del ciclo de vida de entrega del producto, a menudo es un desperdicio hacer una planificación anticipada excesiva. Además, la forma en que la organización se estructura a sí misma, puede aumentar la agilidad empresarial o perjudicarla. En todos los niveles de la organización, la organización quiere estructurarse para mantener la capacidad de cambiar rápidamente de dirección. El acoplamiento débil entre todos los elementos dentro de la empresa es el factor de diseño clave para escalar ágilmente
+- **Transparencia:** Se debe garantizar el obtener información veraz sobre el progreso de los proyectos frente a la entrega y así poder anticipar con precisión el cambio y responder a él. Los equipos enfocados en el agilísimo luchan por la transparencia a través de grandes radiadores de información visibles que comunican el estado del equipo en tiempo real a quien esté interesado. La empresa ágil debe contar con mecanismos para que la información precisa esté disponible para todos los responsables de la toma de decisiones, ya sea a nivel de equipo, a nivel de proyecto y programa, o a nivel de gestión de portafolio.
