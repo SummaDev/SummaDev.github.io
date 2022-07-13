@@ -6,17 +6,17 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Focus on writing good documentation.
+# Gestión Ágil de Portafolio de Proyectos
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+La gestión ágil de portafolio de proyectos permite responder más rápidamente a las condiciones del mercado que cambian rápidamente. Ser ágil esencialmente significa que está entregando valor continuamente, ya sea para un producto, proyecto o programa permitiendo a la empresa anticipar y adaptarse a los cambios en tiempo real.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/just-the-docs/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Comenzar](#comenzar){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Visitar Summa](https://www.summa.com.gt/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
-## Getting started
+## Comenzar
 
 ### Dependencies
 
