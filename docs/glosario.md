@@ -1,12 +1,24 @@
 ---
 layout: default
 title: Glosario
-nav_order: 4
+nav_order: 5
 ---
 
 # Glosario
 
 Dentro de los marcos de trabajo ágil existen distintos conceptos y definiciones que son importantes de definir para comprender las metodologías de trabajo.
+
+### Marco de trabajo ágil (Agile Framework)
+
+Un marco ágil es un enfoque específico para planificar, gestionar y ejecutar el trabajo. _Agile_ representa una filosofía global para el desarrollo de proyectos o productos, haciendo hincapié en el valor de iterar rápidamente y con frecuencia para satisfacer a los clientes.
+
+### Sprint
+
+Un sprint es un período breve de tiempo fijo en el que un equipo trabaja para completar una cantidad de trabajo establecida.
+
+### Scrum
+
+Scrum es un proceso en el que se aplican de manera regular un conjunto de buenas prácticas para trabajar colaborativamente, en equipo, y obtener el mejor resultado posible de un proyecto.
 
 ### Story Points
 

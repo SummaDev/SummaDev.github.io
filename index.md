@@ -12,7 +12,7 @@ permalink: /
 La gestión ágil de portafolio de proyectos permite obtener  información sobre todos sus proyectos, ordenar y priorizar cada proyecto en función de determinados criterios, como valor estratégico, el impacto sobre los recursos, el costo, entre otros.
 {: .fs-6 .fw-300 }
 
-[Comenzar](#comenzar){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Visitar Summa](https://www.summa.com.gt/){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Comenzar]({{ site.baseurl }}{% link docs/comenzar.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Visitar Summa](https://www.summa.com.gt/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
