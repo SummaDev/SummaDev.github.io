@@ -5,8 +5,17 @@ nav_order: 5
 ---
 
 # Glosario
+{: .no_toc }
 
 Dentro de los marcos de trabajo ágil existen distintos conceptos y definiciones que son importantes de definir para comprender las metodologías de trabajo.
+
+## Conceptos
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
+
+---
 
 ### Marco de trabajo ágil (Agile Framework)
 
@@ -32,3 +41,15 @@ La gestión del portafolio ágil, es el concepto que conlleva priorizar y ordena
 
 Se trata de una secuencia infinita de números naturales; a partir del 0 y el 1, se van sumando a pares, de manera que cada número es igual a la suma de sus dos anteriores, de manera que:
 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55…
+
+### Backlog
+
+El backlog (o pila de producto) es un listado de todas las tareas que se pretenden hacer durante el desarrollo de un proyecto.
+
+### Tablero (en Scrum)
+
+El tablero es una herramienta gráfica digital, en la cual se puede visualizar en que etapa del proceso se encuentran las tareas de un proyecto. 
+
+<p align="center">
+  <img width="460" src="/assets/images/backlog.png">
+</p>

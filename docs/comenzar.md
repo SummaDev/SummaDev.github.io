@@ -14,7 +14,7 @@ La gestión es dinámica y más allá de una metodología, es un marco de trabaj
 ## Tabla de contenidos
 {: .no_toc .text-delta }
 
-1. TOC
+- TOC
 {:toc}
 
 ---
@@ -55,7 +55,9 @@ Para las dos técnicas de estimación propuestas, se requiere el uso de Poker Pl
 
 Luego de haber realizado la dinámica para la estimación de los proyectos, se debe generar la lista de proyectos ordenados según su prioridad. Y se elige una cantidad de proyectos limitada para un período a criterio del equipo de gestión.
 
-## 6. Herramienta
+## 6. Implementación Jira
 
 Luego de haber elegido los proyectos con los cuales comenzar se ingresan a plataforma seleccionada para el seguimiento y desarrollo de los distintos proyectos.
+
+[Visita Jira](https://www.atlassian.com/es/software/jira)
 
