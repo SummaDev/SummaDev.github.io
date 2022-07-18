@@ -46,10 +46,21 @@ Se trata de una secuencia infinita de números naturales; a partir del 0 y el 1,
 
 El backlog (o pila de producto) es un listado de todas las tareas que se pretenden hacer durante el desarrollo de un proyecto.
 
-### Tablero (en Scrum)
+### Tablero (en Jira)
 
 El tablero es una herramienta gráfica digital, en la cual se puede visualizar en que etapa del proceso se encuentran las tareas de un proyecto. 
 
 <p align="center">
   <img width="460" src="/assets/images/backlog.png">
 </p>
+
+### Historia de usuario (user story)
+
+Las historias de usuario son descripciones cortas y simples de una característica contada desde la perspectiva de la persona que desea la nueva capacidad, generalmente un usuario o cliente del sistema. Una estructura común es la siguiente: **“Como \[perfil\], \[quiero\] \[para\].”**
+
+Y se presenta un ejemplo a continuación:
+*Como gestor, quiero poder comprender el progreso de mis compañeros, para poder informar sobre nuestros éxitos y fallos.*
+
+### Épicas (Epics)
+
+Se denomina Epica a una historia de usuario que por su gran tamaño, el equipo descompone en historias con un tamaño más adecuado para ser gestionada con los principios y técnicas ágiles: estimación y seguimiento cercano (normalmente diario).
