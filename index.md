@@ -24,8 +24,19 @@ La Gestión Ágil de Portafolio de Proyectos (Agile Portfolio Management - APM) 
 
 La gestión ágil de portafolio logra varios objetivos, entre ellos:
 
-- **Capacidad de entrega predecible:** Debido a que los métodos ágiles piden a la organización que acepte una cierta cantidad de cambios en el proceso de entrega, cada equipo en una organización ágil debe ser predecible. Esto significa que cada equipo debe esforzarse por establecer y mantener una velocidad estable a lo largo del tiempo.
-- **Reducción rápida del riesgo:** Por ejemplo, al tomar una iniciativa de alto riesgo, todos los niveles de la organización deben centrarse en reducir el riesgo y reducir el embudo de incertidumbre lo más rápido posible. Trabajar estos escenarios de alto riesgo temprano es un factor de éxito crítico para el éxito organizacional.
-- **Retroalimentación rápida:** Obtener comentarios de los clientes del producto es un factor crítico de éxito. En la gestión de portafolio, el objetivo es minimizar la cantidad de tiempo que se invierte dinero en un proyecto sin validar la dirección con un cliente real. Los equipos que entregan de forma incremental, pero que no muestran sus productos a los clientes mientras están en desarrollo, corren el riesgo de crear productos que pueden no satisfacer las necesidades de los clientes.
-- **Facilidad en el cambio de dirección:** Debido a que el mercado es cambiante y las necesidades de los clientes sube y baja la organización debe poder cambiar fácilmente de prioridad sobre lo que es más importante. Cuando el cambio es una parte normal de la agilidad y del ciclo de vida de entrega del producto, a menudo es un desperdicio hacer una planificación anticipada excesiva. 
-- **Transparencia:** Se debe garantizar el obtener información veraz sobre el progreso de los proyectos frente a la entrega y así poder anticipar con precisión el cambio y responder a él. Los equipos enfocados en agilidad luchan por la transparencia a través de grandes radiadores de información visibles que comunican el estado del equipo en tiempo real a quien esté interesado.
+<details><summary><b>Capacidad de entrega predecible</b></summary><p>
+Debido a que los métodos ágiles piden a la organización que acepte una cierta cantidad de cambios en el proceso de entrega, cada equipo en una organización ágil debe ser predecible. Esto significa que cada equipo debe esforzarse por establecer y mantener una velocidad estable a lo largo del tiempo.
+</p></details>
+<details><summary><b>Reducción rápida del riesgo</b></summary><p>
+Por ejemplo, al tomar una iniciativa de alto riesgo, todos los niveles de la organización deben centrarse en reducir el riesgo y reducir el embudo de incertidumbre lo más rápido posible. Trabajar estos escenarios de alto riesgo temprano es un factor de éxito crítico para el éxito organizacional.
+</p></details>
+<details><summary><b>Retroalimentación rápida</b></summary><p>
+Obtener comentarios de los clientes del producto es un factor crítico de éxito. En la gestión de portafolio, el objetivo es minimizar la cantidad de tiempo que se invierte dinero en un proyecto sin validar la dirección con un cliente real. Los equipos que entregan de forma incremental, pero que no muestran sus productos a los clientes mientras están en desarrollo, corren el riesgo de crear productos que pueden no satisfacer las necesidades de los clientes.
+</p></details>
+<details><summary><b>Facilidad en el cambio de dirección</b></summary><p>
+Debido a que el mercado es cambiante y las necesidades de los clientes sube y baja la organización debe poder cambiar fácilmente de prioridad sobre lo que es más importante. Cuando el cambio es una parte normal de la agilidad y del ciclo de vida de entrega del producto, a menudo es un desperdicio hacer una planificación anticipada excesiva. 
+</p></details>
+<details><summary><b>Transparencia</b></summary><p>
+Se debe garantizar el obtener información veraz sobre el progreso de los proyectos frente a la entrega y así poder anticipar con precisión el cambio y responder a él. Los equipos enfocados en agilidad luchan por la transparencia a través de grandes radiadores de información visibles que comunican el estado del equipo en tiempo real a quien esté interesado.
+</p></details>
+
