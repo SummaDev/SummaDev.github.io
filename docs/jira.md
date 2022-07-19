@@ -29,12 +29,12 @@ Es una herramienta digital que trabaja en línea, que permite llevar a cabo la g
 ### Para el uso de Jira a nivel de Gestión de Portafolio
 1. Se debe crear un tablero correspondiente a al Portafolio de Proyectos.
 2. Los miembros con capacidad para realizar modificaciones en este tablero serán unicamente aquellos que formen parte del equipo de gestión de portafolio (Comité de Transformación Digital).
+3. Las propiedades de un proyecto en el tablero del portafolio de proyectos, deben ser editables también por sus líderes.
 
 ### Para el uso de Jira a nivel de Proyectos
 1. Se debe crear un tablero nuevo para cada uno de los proyectos que se trabajarán.
 2. Los miembros asignados a cada proyecto deben ser capaces de movilizar sus tareas dentro del tablero de los proyectos de los que son parte, y únicamente en las etapas en las que participan.
-3. El backlog del proyecto debe ser discutido en conjunto con todos los miembros de equipo y cualquier tarea nueva debe ser compartida al resto de miembros.
-4. 
+3. El backlog del proyecto debe ser discutido en conjunto con todos los miembros de equipo y cualquier tarea nueva debe ser compartida y puesta en común con el resto de miembros.
 
 ## Enlaces
 
